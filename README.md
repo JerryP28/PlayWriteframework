@@ -1,5 +1,5 @@
 
-# Play write Automation Framework
+# PlayWright Automation Framework
 
 Framework: Playwright (TypeScript)
 Design: Page Object Model
