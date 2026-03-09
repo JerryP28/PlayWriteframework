@@ -1,5 +1,5 @@
 
-# Associate QE Lead Automation Framework
+# Play write Automation Framework
 
 Framework: Playwright (TypeScript)
 Design: Page Object Model
